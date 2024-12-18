@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "e613",
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "mobileno": "9865438743",
+      "desgination": "Designer"
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "mobileno": "768905433",
+      "desgination": "Developer",
+      "id": "fe2d"
+    }
+  ]
+}
